@@ -1,0 +1,14 @@
+{
+    "name": "knoxd/php-bot",
+    "description": "Php version of the backend script for NCCU's chatbot.",
+    "type": "project",
+    "require": {
+        "google/cloud-dialogflow": "^0.10.0"
+    },
+    "authors": [
+        {
+            "name": "David Knox",
+            "email": "knoxd8256@gmail.com"
+        }
+    ]
+}
